@@ -1,9 +1,14 @@
+
 # Password Generator Web App
 
-This web application is a password generator designed to create strong and secure passwords. The HTML structure includes sections for the hero banner, password input box, customization options, and a submission button. Let's break down the key features:
+This web application is a password generator designed to create strong and secure passwords. The HTML structure includes sections for the password input box, customization options, and recreate and copy buttons. Let's break down the key features:
 
-## Hero Section
-- Displays the title and a brief subtitle introducing the password generator.
+## Test it yourself
+By clicking [HERE](https://fs-kayky.github.io/gerador-senhas/) you can test and use the application, here is a screenshot to see it better
+
+
+![](https://imgur.com/a/3hIXvhe)
+
 
 ## Password Input Box
 - Contains an input field for displaying generated passwords.
@@ -17,6 +22,7 @@ This web application is a password generator designed to create strong and secur
 
 ## Submit Section
 - Provides a button to copy the generated password to the clipboard.
+- Procides a button to recreate the generated password.
 
 ## JavaScript
 - Implements password generation based on user preferences.
