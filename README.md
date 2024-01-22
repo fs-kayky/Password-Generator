@@ -4,7 +4,7 @@
 This web application is a password generator designed to create strong and secure passwords. The HTML structure includes sections for the password input box, customization options, and recreate and copy buttons. Let's break down the key features:
 
 ## Test it yourself
-By [Cliking here]([https://fs-kayky.github.io/gerador-senhas/](https://fs-kayky.github.io/Password-Generator/)) you can test and use the application, here is a screenshot to see it better
+By [Cliking here]((https://fs-kayky.github.io/Password-Generator/)) you can test and use the application, here is a screenshot to see it better
 
 
 ![Screenshot](https://i.imgur.com/jItJ8cH.png)
